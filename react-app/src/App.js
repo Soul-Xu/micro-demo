@@ -2,9 +2,9 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  console.log("react-app")
   return (
-    <div className="App">
+    <div className="App" style={{ marginTop: "80px" }}>
+      <h1>react-app子应用</h1>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
