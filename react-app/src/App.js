@@ -3,8 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App" style={{ marginTop: "80px" }}>
-      <h1>react-app子应用</h1>
+    <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
